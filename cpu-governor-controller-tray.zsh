@@ -1,3 +1,5 @@
+#!/bin/zsh
+
 CHECK_INTERVAL=20
 
 typeset -A icons=(
